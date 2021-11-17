@@ -1,0 +1,36 @@
+*{
+    font-family: Courier New;
+}
+
+body{
+    background-image: linear-gradient(to bottom right,#eefcff,#00ccff);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#texInput{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.radios{
+    color: #016882;
+}
+
+#submit{
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+    background-color: #003969;
+}
+
+span{
+    font-weight: bold;
+    font-size: 18px;
+}
